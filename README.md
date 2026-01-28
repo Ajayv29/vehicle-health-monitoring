@@ -1,1 +1,1 @@
-# IoT based vehicle health and driver alert system
+# IoT based vehicle health monitoring and driver alert system
